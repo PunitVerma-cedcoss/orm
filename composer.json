@@ -3,7 +3,8 @@
     "type": "library",
     "description": "an orm",
     "homepage": "https://github.com/PunitVerma-cedcoss/orm",
-    "version" : "1.3",
+    "version" : "1.4",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "punit verma"
