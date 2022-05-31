@@ -1,0 +1,19 @@
+{
+    "repositories": [
+        {
+            "type":"package",
+            "package": {
+              "name": "punitverma-cedcoss/orm",
+              "version":"master",
+              "source": {
+                  "url": "https://github.com/PunitVerma-cedcoss/orm.git",
+                  "type": "git",
+                  "reference":"master"
+                }
+            }
+        }
+    ],
+    "require": {
+        "punitverma-cedcoss/orm": "v1.0"
+    }   
+}
